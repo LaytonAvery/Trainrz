@@ -10,21 +10,21 @@ function Cards() {
 				<div className='cards__wrapper'>
 					<ul className='cards__items'>
 						<CardItem
-							src='images/img-5.jpg'
+							src={require("../images/trainer.jpg").default}
 							text='Personal Training'
-							label='Training'
+							label='Trainrz'
 							path='/services'
 						/>
 						<CardItem
-							src='images/img1.jpg'
-							text='Personal Training'
-							label='Training'
+							src={require("../images/fruit.jpg").default}
+							text='Nutrition Counseling'
+							label='Consultations'
 							path='/services'
 						/>
 						<CardItem
-							src='images/img-8.jpg'
-							text='Personal Training'
-							label='Training'
+							src={require("../images/facility.jpg").default}
+							text='Facility'
+							label='Amenities'
 							path='/services'
 						/>
 					</ul>
