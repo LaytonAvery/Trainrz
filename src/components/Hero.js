@@ -7,9 +7,7 @@ function Hero() {
 	return (
 		<div className='hero-container'>
 			<h1>Wellness Awaits</h1>
-			<p>
-				What's holding you back from getting in the best shape of your life?
-			</p>
+			<p>What's stopping you from getting in the best shape of your life?</p>
 			<div className='hero-btns'>
 				<Button
 					className='btns'
@@ -18,7 +16,6 @@ function Hero() {
 				>
 					Let's Begin!
 				</Button>
-				
 			</div>
 		</div>
 	);
