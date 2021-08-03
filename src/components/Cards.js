@@ -12,7 +12,19 @@ function Cards() {
 						<CardItem
 							src='images/img-5.jpg'
 							text='Personal Training'
-							label='training'
+							label='Training'
+							path='/services'
+						/>
+						<CardItem
+							src='images/img1.jpg'
+							text='Personal Training'
+							label='Training'
+							path='/services'
+						/>
+						<CardItem
+							src='images/img-8.jpg'
+							text='Personal Training'
+							label='Training'
 							path='/services'
 						/>
 					</ul>
