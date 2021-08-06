@@ -25,7 +25,7 @@ function Cards() {
 							src={require("../images/facility.jpg").default}
 							text='Facility'
 							label='Amenities'
-							path='/services'
+							path='/facility'
 						/>
 					</ul>
 				</div>
