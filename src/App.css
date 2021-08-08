@@ -15,7 +15,25 @@
 	justify-content: center;
 	font-size: 3rem;
 }
-
+.sign-up-para,
+.facility-para {
+	display: flex;
+	height: 20vh;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	align-items: center;
+	justify-content: center;
+	font-size: x-large;
+	color: black;
+}
+.amenities > ul,
+.amenities {
+	display: flex;
+	color: black;
+	font-size: large;
+	align-items: center;
+	justify-content: center;
+}
 .services {
 	background-image: url("images/img2.jpg");
 	background-position: center;
