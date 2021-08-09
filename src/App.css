@@ -16,7 +16,8 @@
 	font-size: 3rem;
 }
 .sign-up-para,
-.facility-para {
+.facility-para,
+.services-para {
 	display: flex;
 	height: 20vh;
 	padding-left: 3rem;
